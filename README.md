@@ -1,4 +1,4 @@
-# AI SEO & GEO Specialist - Landing Page
+# Freelancer Laden - Landing Page
 
 Static site (HTML + CSS + JS). No build step.
 
